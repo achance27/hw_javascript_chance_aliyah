@@ -8,7 +8,7 @@ After hours of work, here is my homework assignment!
 I am most likely forgetting a few since I jumped around and Googled a lot. Here are thoes that I do recall:
 
 * For help understandinf functions (especially expressions) and parameters
-	* [MDN] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
+	* [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
 	* [W3Schools](https://www.w3schools.com/js/js_function_invocation.asp)
 * For praciting and comparing others notes through their forums
 	* [CodeAcademy](https://www.codecademy.com/en/tracks/javascript) 
