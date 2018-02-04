@@ -11,3 +11,9 @@ var presidents = [
     {firstName: 'George H.W.', lastName: 'Bush', termLength: 1, party: 'Republican', yearsOfPresidency: 4}
 ];
 console.log(presidents[2].firstName + ' ' + presidents[2].lastName);
+
+//  HOWDY
+function howdy() {
+    console.log('Aliyah Chance says hi!');
+}
+howdy();
