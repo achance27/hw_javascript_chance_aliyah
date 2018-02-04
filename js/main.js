@@ -31,3 +31,16 @@ var numba = function (string) {
 numba('7');
 numba('seventy');
 numba('university');
+
+// FAVORITE MOVIE
+/*function inception(display, favMovie) {
+    return favMovie + ' ' + display;
+}
+var message = inception('is a fantastic movie.', 'The Devil Wears Prada');
+console.log(message);
+*/
+function inception(display, favMovie) {
+    var message = favMovie + ' ' + display;
+    return message;
+}
+console.log(inception('is a fantastic movie.', 'The Devil Wears Prada'));
